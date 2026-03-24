@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+	<question difficulty="EASY">
+		<topic>Electronic Engineering</topic>
+		<questionString>What is the unit of electrical resistance?</questionString>
+		<option>Ohm (Ω)</option>
+		<option>Ampere (A)</option>
+		<option>Volt (V)</option>
+		<option>Coulomb (C)</option>
+	</question>
+
+	<question difficulty="EASY">
+		<topic>Electronic Engineering</topic>
+		<questionString>In an RC circuit, what does "RC" stand for?</questionString>
+		<option>Resistor-Capacitor</option>
+		<option>Relay-Current</option>
+		<option>Rectifier-Circuit</option>
+		<option>Resistance-Conduction</option>
+	</question>
+
+	<question difficulty="EASY">
+		<topic>Electronic Engineering</topic>
+		<questionString>Which semiconductor material is most commonly used in electronics?</questionString>
+		<option>Silicon</option>
+		<option>Gallium Arsenide</option>
+		<option>Germanium</option>
+		<option>Carbon</option>
+	</question>
+
+	<question difficulty="EASY">
+		<topic>Electronic Engineering</topic>
+		<questionString>What does a diode primarily do in a circuit?</questionString>
+		<option>Conduct current in one direction</option>
+		<option>Amplify signals</option>
+		<option>Store energy</option>
+		<option>Measure voltage</option>
+	</question>
+
+	<question difficulty="EASY">
+		<topic>Electronic Engineering</topic>
+		<questionString>The basic building block of digital circuits is:</questionString>
+		<option>Logic Gate</option>
+		<option>Transistor</option>
+		<option>Resistor</option>
+		<option>Diode</option>
+	
+	</question>
+		<question difficulty="MEDIUM">
+			<topic>Electronic Engineering</topic>
+			<questionString>Which of the following filters is used to allow high-frequency signals and block low-frequency signals?</questionString>
+			<option>High-pass filter</option>
+			<option>Low-pass filter</option>
+			<option>Band-pass filter</option>
+			<option>Notch filter</option>
+		</question>
+
+		<question difficulty="MEDIUM">
+			<topic>Electronic Engineering</topic>
+			<questionString>In an NPN transistor, which region is the largest in size?</questionString>
+			<option>Collector</option>
+			<option>Base</option>
+			<option>Emitter</option>
+			<option>All regions are of equal size</option>
+		</question>
+
+		<question difficulty="MEDIUM">
+			<topic>Electronic Engineering</topic>
+			<questionString>What is the purpose of a bypass capacitor in a common emitter amplifier circuit?</questionString>
+			<option>To allow AC signals to pass while blocking DC</option>
+			<option>To stabilize the DC operating point</option>
+			<option>To increase the input impedance</option>
+			<option>To increase the gain of the amplifier</option>
+		</question>
+
+		<question difficulty="MEDIUM">
+			<topic>Electronic Engineering</topic>
+			<questionString>Which of the following is true about MOSFETs compared to BJTs?</questionString>
+			<option>MOSFETs have higher input impedance</option>
+			<option>BJTs have lower switching speeds</option>
+			<option>MOSFETs require less voltage to operate</option>
+			<option>BJTs are more efficient in power applications</option>
+		</question>
+
+		<question difficulty="MEDIUM">
+			<topic>Electronic Engineering</topic>
+			<questionString>Which configuration of an operational amplifier has the highest input impedance?</questionString>
+			<option>Voltage Follower</option>
+			<option>Inverting Amplifier</option>
+			<option>Non-Inverting Amplifier</option>
+			<option>Summing Amplifier</option>
+
+		</question>
+			<question difficulty="HARD">
+				<topic>Electronic Engineering</topic>
+				<questionString>In a Wien Bridge Oscillator, which condition must be satisfied to ensure sustained oscillations?</questionString>
+				<option>The loop gain must be exactly 1</option>
+				<option>The feedback phase shift must be 90 degrees</option>
+				<option>The output frequency must match the natural frequency of the circuit</option>
+				<option>The feedback network must have a high Q-factor</option>
+				
+		</question>
+
+			<question difficulty="HARD">
+				<topic>Electronic Engineering</topic>
+				<questionString>Which parameter significantly impacts the cutoff frequency of a MOSFET in high-frequency applications?</questionString>
+				<option>Gate-to-source capacitance</option>
+				<option>Threshold voltage</option>
+				<option>Drain resistance</option>
+				<option>Transconductance</option>
+			</question>
+
+			<question difficulty="HARD">
+				<topic>Electronic Engineering</topic>
+				<questionString>For an op-amp configured in a differentiator circuit, why is a small capacitor often added across the feedback resistor?</questionString>
+				<option>To improve stability by reducing high-frequency noise</option>
+				<option>To increase the gain at low frequencies</option>
+				<option>To eliminate DC offset</option>
+				<option>To increase the bandwidth</option>
+				
+			</question>
+
+			<question difficulty="HARD">
+				<topic>Electronic Engineering</topic>
+				<questionString>What is the main disadvantage of a Class AB amplifier compared to a Class A amplifier?</questionString>
+				<option>Nonlinear crossover distortion</option>
+				<option>Higher power dissipation</option>
+				<option>Reduced bandwidth</option>
+				<option>Lower efficiency</option>
+				
+			</question>
+
+			<question difficulty="HARD">
+				<topic>Electronic Engineering</topic>
+				<questionString>What is the key advantage of using a current feedback operational amplifier (CFOA) over a traditional voltage feedback operational amplifier (VFOA)?</questionString>
+				<option>Faster slew rate</option>
+				<option>Lower input offset voltage</option>
+				<option>Greater linearity</option>
+				<option>Higher open-loop gain</option>
+				
+
+			</question>
+			<question difficulty="VERY_HARD">
+					<topic>Electronic Engineering</topic>
+					<questionString>What is the primary advantage of using a cascode amplifier configuration in high-frequency applications?</questionString>
+					<option>Reduced Miller capacitance effect</option>
+					<option>Increased voltage gain</option>
+					<option>Improved input impedance</option>
+					<option>Lower output impedance</option>
+				</question>
+
+				<question difficulty="VERY_HARD">
+					<topic>Electronic Engineering</topic>
+					<questionString>In a Delta-Sigma ADC, what is the primary function of the noise-shaping filter?</questionString>
+					<option>To attenuate noise in the quantization band</option>
+					<option>To sample the input signal at a high rate</option>
+					<option>To reduce harmonic distortion</option>
+					<option>To improve the resolution of the ADC</option>
+				</question>
+
+				<question difficulty="VERY_HARD">
+					<topic>Electronic Engineering</topic>
+					<questionString>In the context of RF amplifiers, what does the term "intermodulation distortion" (IMD) refer to?</questionString>
+					<option>Unwanted mixing of two or more input frequencies</option>
+					<option>Harmonic distortion caused by signal clipping</option>
+					<option>Noise introduced by thermal effects in the amplifier</option>
+					<option>Phase distortion in the transmitted signal</option>
+				</question>
+
+				<question difficulty="VERY_HARD">
+					<topic>Electronic Engineering</topic>
+					<questionString>Why are fractional-N PLLs preferred over integer-N PLLs in modern frequency synthesizers?</questionString>
+					<option>They provide higher frequency resolution</option>
+					<option>They achieve lower phase noise</option>
+					<option>They consume less power</option>
+					<option>They operate over a wider frequency range</option>
+				</question>
+
+				<question difficulty="VERY_HARD">
+					<topic>Electronic Engineering</topic>
+					<questionString>In CMOS technology, what is the main trade-off when increasing the channel length of a transistor?</questionString>
+					<option>Reduced leakage current but slower switching speed</option>
+					<option>Improved switching speed but higher leakage current</option>
+					<option>Improved thermal stability but reduced gain</option>
+					<option>Lower power consumption but increased noise</option>
+		</question>
+</questions>
+

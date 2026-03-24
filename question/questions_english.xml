@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+	
+		<question difficulty="EASY">
+			<topic>English</topic>
+			<questionString>Which of the following is a synonym of "happy"?</questionString>
+			<option>Joyful</option>
+			<option>Angry</option>
+			<option>Sad</option>
+			<option>Tired</option>
+		</question>
+
+		<question difficulty="EASY">
+			<topic>English</topic>
+			<questionString>What is the plural form of "child"?</questionString>
+			<option>Children</option>
+			<option>Childs</option>
+			<option>Childes</option>
+			<option>Childrens</option>
+		</question>
+
+		<question difficulty="EASY">
+			<topic>English</topic>
+			<questionString>What is the correct article to use before the word "apple"?</questionString>
+			<option>An</option>
+			<option>A</option>
+			<option>The</option>
+			<option>None</option>
+		</question>
+
+		<question difficulty="EASY">
+			<topic>English</topic>
+			<questionString>Which sentence is correctly punctuated?</questionString>
+			<option>I like apples, oranges, and bananas.</option>
+			<option>I like, apples oranges and bananas.</option>
+			<option>I like apples oranges, and bananas</option>
+			<option>I like apples oranges and bananas</option>
+		</question>
+
+		<question difficulty="EASY">
+			<topic>English</topic>
+			<questionString>What is the past tense of the verb "run"?</questionString>
+			<option>Ran</option>
+			<option>Runed</option>
+			<option>Running</option>
+			<option>Runned</option>
+		</question>
+			
+			<question difficulty="MEDIUM">
+				<topic>English</topic>
+				<questionString>What does the idiom "break the ice" mean?</questionString>
+				<option>Start a conversation in a social setting</option>
+				<option>End a tense argument</option>
+				<option>Destroy something fragile</option>
+				<option>Stay calm under pressure</option>
+			</question>
+
+			<question difficulty="MEDIUM">
+				<topic>English</topic>
+				<questionString>Which of the following sentences uses the correct form of "its" or "it's"?</questionString>
+				<option>The dog wagged its tail happily.</option>
+				<option>Its a beautiful day outside.</option>
+				<option>The cat cleaned it's fur.</option>
+				<option>It's collar was red and shiny.</option>
+			</question>
+
+			<question difficulty="MEDIUM">
+				<topic>English</topic>
+				<questionString>What is the comparative form of the adjective "good"?</questionString>
+				<option>Better</option>
+				<option>Gooder</option>
+				<option>More good</option>
+				<option>Best</option>
+			</question>
+
+			<question difficulty="MEDIUM">
+				<topic>English</topic>
+				<questionString>In the sentence "She enjoys painting, dancing, and reading," what is the grammatical term for the words "painting, dancing, and reading"?</questionString>
+				<option>Gerunds</option>
+				<option>Infinitives</option>
+				<option>Participles</option>
+				<option>Adverbs</option>
+			</question>
+
+			<question difficulty="MEDIUM">
+				<topic>English</topic>
+				<questionString>Which of the following sentences is written in the passive voice?</questionString>
+				<option>The cake was baked by Sarah.</option>
+				<option>Sarah baked a cake.</option>
+				<option>Sarah is baking a cake.</option>
+				<option>Sarah will bake a cake.</option>
+			</question>	
+				
+				<question difficulty="HARD">
+					<topic>English</topic>
+					<questionString>Which of the following sentences correctly uses the subjunctive mood?</questionString>
+					<option>If I were you, I would study harder for the exam.</option>
+					<option>If I was you, I would study harder for the exam.</option>
+					<option>If she was here, she would have helped us.</option>
+					<option>If he was taller, he could reach the shelf.</option>
+				</question>
+
+				<question difficulty="HARD">
+					<topic>English</topic>
+					<questionString>What is the term for a verb form that functions as a noun in a sentence?</questionString>
+					<option>Gerund</option>
+					<option>Infinitive</option>
+					<option>Participle</option>
+					<option>Conjugate</option>
+				</question>
+
+				<question difficulty="HARD">
+					<topic>English</topic>
+					<questionString>Identify the sentence that contains a dangling modifier:</questionString>
+					<option>Walking through the park, the flowers smelled wonderful.</option>
+					<option>After a long day, she went straight to bed.</option>
+					<option>While eating lunch, the phone rang.</option>
+					<option>Having finished the homework, the book was read.</option>
+				</question>
+
+				<question difficulty="HARD">
+					<topic>English</topic>
+					<questionString>In literature, what is the term for a character that contrasts with the protagonist to highlight certain qualities?</questionString>
+					<option>Foil</option>
+					<option>Antagonist</option>
+					<option>Confidant</option>
+					<option>Dynamic character</option>
+				</question>
+
+				<question difficulty="HARD">
+					<topic>English</topic>
+					<questionString>Which of the following sentences is an example of an oxymoron?</questionString>
+					<option>The silence was deafening.</option>
+					<option>He ran as fast as a cheetah.</option>
+					<option>She is the apple of his eye.</option>
+					<option>The clock ticked loudly in the quiet room.</option>
+				</question>
+					
+					<question difficulty="VERY HARD">
+						<topic>English</topic>
+						<questionString>What is the linguistic term for the study of word origins and their historical development?</questionString>
+						<option>Etymology</option>
+						<option>Semantics</option>
+						<option>Phonology</option>
+						<option>Morphology</option>
+					</question>
+
+					<question difficulty="VERY HARD">
+						<topic>English</topic>
+						<questionString>Which of the following is an example of a zeugma?</questionString>
+						<option>She broke his heart and his car on the same day.</option>
+						<option>The stars danced playfully in the night sky.</option>
+						<option>To err is human, to forgive is divine.</option>
+						<option>I came, I saw, I conquered.</option>
+					</question>
+
+					<question difficulty="VERY HARD">
+						<topic>English</topic>
+						<questionString>In English grammar, what is the term for a sentence where the main clause is left incomplete for effect?</questionString>
+						<option>Aposiopesis</option>
+						<option>Ellipsis</option>
+						<option>Anacoluthon</option>
+						<option>Hypotaxis</option>
+
+					</question>
+
+					<question difficulty="VERY HARD">
+						<topic>English</topic>
+						<questionString>What is the primary difference between a restrictive and a non-restrictive relative clause?</questionString>
+						<option>A restrictive clause provides essential information, while a non-restrictive clause adds extra information.</option>
+						<option>A restrictive clause is always set off by commas, while a non-restrictive clause is not.</option>
+						<option>A restrictive clause modifies a verb, while a non-restrictive clause modifies a noun.</option>
+						<option>A restrictive clause uses "which," while a non-restrictive clause uses "that."</option>
+					</question>
+
+					<question difficulty="VERY HARD">
+						<topic>English</topic>
+						<questionString>Which rhetorical device involves the repetition of a word or phrase at the beginning of successive clauses?</questionString>
+						<option>Anaphora</option>
+						<option>Epistrophe</option>
+						<option>Chiasmus</option>
+						<option>Antithesis</option>
+		</question>
+   
+</questions>
+

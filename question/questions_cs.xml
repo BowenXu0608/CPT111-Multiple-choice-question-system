@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question difficulty=" EASY">
+        <topic>Computer Science</topic>
+        <questionString>What is an operating system?</questionString>
+        <option> all of the mentioned</option>
+        <option> interface between the hardware and application programs</option>
+        <option> system service provider to the application programs</option>
+        <option> collection of programs that manages hardware resources</option>
+	</question>
+	<question difficulty="EASY">
+		<topic>Computer Science</topic>
+		<questionString>What is the main function of the command interpreter?</questionString>
+		<option> to get and execute the next user-specified command</option>
+		<option> to provide the interface between the API and application program</option>
+		<option> to handle the files in the operating system</option>
+		<option> none of the mentioned</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>In Operating Systems, which of the following is/are CPU scheduling algorithms?</questionString>
+        <option> All of the mentioned</option>
+        <option> Round Robin</option>
+        <option> Shortest Job First</option>
+        <option> Priority</option>
+	</question>
+	<question difficulty="EASY">
+		<topic>Computer Science</topic>
+		<questionString> To access the services of the operating system, the interface is provided by the ___________</questionString>
+		<option> System calls</option>
+		<option> Library</option>
+		<option> Assembly instructions</option>
+		<option> API</option>
+	</question>
+	<question difficulty="EASY">
+		<topic>Computer Science</topic>
+		<questionString>CPU scheduling is the basis of ___________</questionString>
+		<option> multiprogramming operating systems</option>
+		<option> larger memory sized systems</option>
+		<option> multiprocessor systems</option>
+		<option> none of the mentioned</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>According to Gabriel lame, how many steps does Euclid’s algorithm require to solve a problem?</questionString>
+        <option> Less than five times the number of digits</option>
+		<option> More than five times the number of digits</option>
+		<option> Less than two times the number of digits</option>
+		<option> More than two times the number of digits</option>
+	</question>
+	<question difficulty="MEDIUM">
+		<topic>Computer Science</topic>
+		<questionString>If a link transmits 4000 frames per second, and each slot has 8 bits, what is the transmission rate of the circuit using Time Division Multiplexing (TDM)?</questionString>
+		<option> 32kbps</option>
+		<option> 500kbps</option>
+		<option> 32bps</option>
+		<option> 500bps</option>
+	</question>
+	<question difficulty="MEDIUM">
+		<topic>Computer Science</topic>
+		<questionString>Which of the following is used in an attempt to render a computer resource unavailable to its intended users?</questionString>
+		<option> denial-of-service attack</option>
+		<option> botnet process</option>
+		<option> worms attack</option>
+		<option> virus attack</option>
+	</question>
+	<question difficulty="MEDIUM">
+		<topic>Computer Science</topic>
+		<questionString>Which of the following architecture is suitable for a wide range of data types?</questionString>
+		<option> ARM</option>
+		<option> denial-of-service attack IA-32</option>
+		<option> ASUS firebird</option>
+		<option> 68000</option>
+	</question>
+	<question difficulty="MEDIUM">
+		<topic>Computer Science</topic>
+		<questionString>Which of the following is NOT a function of an operating system?</questionString>
+		<option> Data encryption</option>
+		<option> Memory management</option>
+		<option> Process management</option>
+		<option> File management</option>
+
+	</question>
+	<question difficulty="HARD">
+		<topic>Computer Science</topic>
+		<questionString>The prefix form of A-B/ (C * D ^ E) is?</questionString>
+		<option> -A/B*C^DE</option>
+		<option> -A/BC*^DE</option>
+		<option> -ABCD*^DE</option>
+		<option> -/*^ACBDE</option>
+	</question>
+	<question difficulty="HARD">
+		<topic>Computer Science</topic>
+		<questionString>Which of the following sorting algorithms has the best average-case time complexity?</questionString>
+		<option> Merge Sort</option>
+		<option> Quick Sort</option>
+		<option> Bubble Sort</option>
+		<option> Insertion Sort</option>
+	</question>
+	<question difficulty="HARD">
+	<topic>Computer Science</topic>
+		<questionString>In the context of databases, what does ACID stand for?</questionString>
+		<option> Atomicity, Consistency, Isolation, Durability</option>
+		<option> Asynchronous, Consistent, Integrity, Durability</option>
+		<option> Atomicity, Consistency, Integrity, Durability</option>
+		<option> Asynchronous, Consistent, Isolation, Durability</option>
+	</question>
+	<question difficulty="HARD">
+	<topic>Computer Science</topic>
+		<questionString>What is the primary purpose of a hash function in a hash table?</questionString>	
+		<option> To map keys to indices in an array</option>
+		<option> To sort the elements</option>
+		<option> To encrypt data</option>
+		<option> To compress data</option>
+	</question>
+	<question difficulty="HARD">
+	<topic>Computer Science</topic>
+		<questionString>
+			What is the purpose of JavaScript in web development?</questionString>
+		<option> To add interactivity and behavior to web pages</option>
+		<option> To define the structure and content of web pages</option>
+		<option> To style and format web pages</option>
+		<option> To manage server-side data and databases</option>
+
+	</question>
+	<question difficulty="VERY_HARD">
+		<topic>Computer Science</topic>
+		<questionString>Which of the following is true about the Cook-Levin theorem?</questionString>
+		<option> It proves that every problem in NP can be reduced to the Boolean satisfiability problem (SAT) in polynomial time.</option>
+		<option> It proves that every problem in P is also in NP.</option>
+		<option> It proves that the Boolean satisfiability problem (SAT) can be solved in polynomial time.</option>
+		<option> It proves that every problem in NP can be reduced to the Travelling Salesman Problem (TSP) in polynomial time.</option>
+	</question>
+	<question difficulty="VERY_HARD">
+		<topic>Computer Science</topic>
+		<questionString>In the context of functional programming, what is the primary characteristic of a pure function?</questionString>
+		<option> It does not have any side effects and always produces the same output for the same input.</option>
+		<option> It does not return any value.</option>
+		<option> It does not use any global variables.</option>
+		<option> It can modify the state of the program.</option>
+	</question>
+	<question difficulty="VERY_HARD">
+		<topic>Computer Science</topic>
+		<questionString>Which of the following is a property of a B-tree of order m?</questionString>
+		<option> Each node has at most m children.</option>
+		<option> Each node has at most m-1 keys.</option>
+		<option> Each node has exactly m children.</option>
+		<option> Each node has exactly m-1 keys.</option>
+	</question>
+	<question difficulty="VERY_HARD">
+		<topic>Computer Science</topic>
+		<questionString>In the context of compiler design, what is the purpose of register allocation?</questionString>
+		<option> To allocate registers to variables during code generation.</option>
+		<option> To allocate memory to variables in the stack.</option>
+		<option> To allocate memory to variables in the heap.</option>
+		<option> To allocate disk space for program execution.</option>
+	</question>
+	<question difficulty="VERY_HARD">
+		<topic>Computer Science</topic>
+		<questionString>Which of the following is true about the PageRank algorithm used by Google Search?</questionString>
+		<option> It ranks web pages based on the number and quality of inbound links.</option>
+		<option> It ranks web pages based on the number of times they are visited.</option>
+		<option> It ranks web pages based on the number of outbound links they have.</option>
+		<option> It ranks web pages based on their content length.</option>
+		
+
+		
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</question>
+</questions>
+
